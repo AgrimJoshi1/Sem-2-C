@@ -1,0 +1,9 @@
+.DS_Store
+*.dSYM
+
+# build artifacts
+output
+main
+leapyear
+File Name to write: .gitignore
+
