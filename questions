@@ -1,0 +1,7 @@
+//write a c program that prints the size of all basic data types using sizeof
+//write a program and show the diff between int shortint longint using size and range
+// a)write a program to swap 2 values, b) without using third variable
+//take a string dynamically and statically (Hello world) len on strlen and, when static check len with for loop using strlen, do same for dynamic$
+//armstrong number 
+// sides given, check whether valid triangle if triangle then check which type of triangle 
+//find 1's and 2's compliment

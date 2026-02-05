@@ -1,0 +1,1 @@
+//write a program and show the diff between int shortint longint using size and range
