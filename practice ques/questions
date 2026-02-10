@@ -4,4 +4,4 @@
 //take a string dynamically and statically (Hello world) len on strlen and, when static check len with for loop using strlen, do same for dynamic$
 //armstrong number 
 // sides given, check whether valid triangle if triangle then check which type of triangle 
-//find 1's and 2's compliment
+//find 1's and 2's complement
