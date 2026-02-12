@@ -1,0 +1,1 @@
+//Write a program to input any number from user and check wheteher the given number is positive, negative or zero.
