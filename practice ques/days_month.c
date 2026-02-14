@@ -1,1 +1,0 @@
-//write a program to input a month number(1-12) and print the number of days in that month
