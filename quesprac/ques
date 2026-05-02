@@ -6,3 +6,7 @@
 //wap to find 2 largest no from array of n numbers
 //wap to find if array contains duplicate no or not
 //wap to insert a no in array that is already sorted in asceding order
+
+
+//wap to generate all permutation of a given string
+//wap recursive function to check if given string is palindrome ignoring case and non alphabetic char
